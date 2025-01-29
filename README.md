@@ -32,14 +32,10 @@ Historical Quiz Data API: Provides performance data from the last 5 quizzes.
 
 Project Installation and Execution
 
-Clone the Repository
+GET APP : https://play.google.com/store/apps/details?id=practice.test.neet.testline&hl=en_IN
 
-git clone https://github.com/your-repo/student-recommendations.git
-cd student-recommendations
-
-Run the Application
-
-python app.py
+EXTRACT INFO : https://jsonkeeper.com/b/LLQT
+HISTORICAL DATA: https://api.jsonserve.com/XgAgFJ
 
 Test API Endpoints
 
